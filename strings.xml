@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoodSpy</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="action_settings">action_settings</string>
+</resources>
